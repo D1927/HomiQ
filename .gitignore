@@ -3,3 +3,25 @@
 
 # Env file
 Backend/config.env
+
+# Inside accounts
+Backend/accounts/__pycache__
+Backend/accounts/migrations/__pycache__
+
+# In config
+Backend/config/__pycache__
+
+
+# General (Not needed for now)
+# Python
+*.py[cod]
+__pycache__/
+
+# Local database and logs
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
