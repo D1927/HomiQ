@@ -1,3 +1,5 @@
 # Virtual Env
 .venv/
 
+# Env file
+Backend/config.env
